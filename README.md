@@ -1,2 +1,2 @@
 # Aluminect
-My first website for college competion
+My first website for college competition
